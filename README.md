@@ -4,7 +4,7 @@
 ![distance to source](dist_to_source.png)
 | with odorant |   | without odorant |
 |:------------:|---|-----------------|
-|              |   |                 |
+|    da        |   |         da      |
 
 ###### Original script written by Andreas Braun 
 ###### Modified by Matthieu Louis (mlouis_at_lifesci.ucbs.edu) and Ajinkya Deogade
