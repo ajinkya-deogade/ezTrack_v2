@@ -1,4 +1,4 @@
-# EZTrack
+# ezTrack version 2.0
 
 ![reference](ref.png)
 
