@@ -1,10 +1,6 @@
 # EZTrack
 
-|with odorant|without odorant|
-|---|---|
-|![tracks odor](tracks_odor.png)|![tracks no odor](tracks_no_odor.png)|
-|![distance to source odor](dist_to_source_odor.png) |![distance to source no odor](dist_to_source_no_odor.png) |
-
+![reference](ref.png)
 
 ###### Original script written by Andreas Braun 
 ###### Modified by Matthieu Louis (mlouis_at_lifesci.ucbs.edu) and Ajinkya Deogade
